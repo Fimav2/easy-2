@@ -1,0 +1,17 @@
+#ifndef EASY_H_INCLUDED
+#define EASY_H_INCLUDED
+
+#include <iostream>
+
+using namespace std;
+
+void itc_name();
+
+void itc_fio();
+
+bool itc_ispositive(int a);
+
+bool itc_ispositive_d(double a);
+
+bool itc_iseven(int input);
+#endif
